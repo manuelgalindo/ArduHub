@@ -8,6 +8,7 @@ HUB USB/Ethernet with Arduino(R).
 ## License
 
 Copyright (c) 2016 Manuel Fernando Galindo
+Design conceded under CERN OHL License.
 
 CERN Open Hardware Licence v1.2 
 
